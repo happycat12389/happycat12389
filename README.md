@@ -14,7 +14,7 @@
 
 **Grade:** Learner  
 **Name:** 김기현  
-**Email:** dev@student.42seoul.kr  
+**Email:** segihyeon870@gmail.com
 ⏳ **133 days left!**  
 **Level:** 1 - 54%
 
