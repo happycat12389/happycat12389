@@ -1,10 +1,13 @@
+<!-- 헤더 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KIM%20KI%20HYEON&fontSize=40&animation=fadeIn)
+
 <h1 align="center">KIM KI HYEON'S PROFILE 👋</h1>
 
 <p align="center">
-  <a href="mailto:dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:segihyeon870@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://42seoul.kr"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white"></a>
   <a href="https://veggie-garden.tistory.com/"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kimkihyeon&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=happycat12389&style=for-the-badge&color=blue">
 </p>
 
 ---
@@ -14,20 +17,22 @@
 
 **Grade:** Learner  
 **Name:** 김기현  
-**Email:** segihyeon870@gmail.com
+**Email:** [segihyeon870@gmail.com](mailto:segihyeon870@gmail.com)  
 ⏳ **133 days left!**  
 **Level:** 1 - 54%
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning front-end skills  
-- ❤️ I love to code and read  
+- 🌱 I’m currently learning **Front-End Development**  
+- ❤️ I love to **code and read**  
+- 📖 Favorite book: *Clean Code*  
 
 ---
 
 ## 🏅 Ranking
 <img src="https://img.shields.io/badge/Rank-Gold_3rd-d4af37?style=for-the-badge&logo=rank&logoColor=white">  
+
 **Rank:** 1,478 / **Gold:** 3rd / **Level:** 1,001 / 52%
 
 ---
@@ -71,8 +76,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimkihyeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkihyeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=happycat12389&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycat12389&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150">
 </p>
 
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=happycat12389&theme=tokyonight&hide_border=true)  
+
+</div>
+
 ---
+
+<!-- 푸터 배너 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
