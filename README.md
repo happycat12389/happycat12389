@@ -1,7 +1,7 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KIM%20KI%20HYEON&fontSize=40&animation=fadeIn)
 
-<h1 align="center">KIM KI HYEON'S PROFILE 👋</h1>
+<h1 align="center">👋 KIM KI HYEON'S PROFILE 👋</h1>
 
 <p align="center">
   <a href="mailto:segihyeon870@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -12,55 +12,55 @@
 
 ---
 
-## 🏆 42Seoul Stats
-[![김기현's 42 stats](https://badge42.vercel.app/api/v2/cliv84h9u006008i2vb5xqk9p/stat점
-- 🌱 I’m currently learning **Front-End Development**  
-- ❤️ I love to **code and read**  
-- 📖 Favorite book: *Clean Code*  
+## 🏆 프로젝트 계획
+지금 현재의 당장 해야 할 목표
+- 🌱  기본기 다지기
+- ❤️  기본적인 반응형 페이지 만들기 
+- 📖  기본 컴포넌트 구현
 
 ---
 
-## 🏅 랭킹 순위
+## 🏅 좀 더 개선해야 할 부분
+프로그램 코딩에 더욱 경각심을 갖고 공부하기
+코딩을 따라치는 것도 좋지만 코드를 이해하기
+어떻게 실행되는지 주석을 통하여 확인하기
 <img src="https://img.shields.io/badge/Rank-Gold_3rd-d4af37?style=for-the-badge&logo=rank&logoColor=white">  
 
-**Rank:** 1,478 / **Gold:** 3rd / **Level:** 1,001 / 52%
-
----
 
 ## ⏰ 깃허브 이용시간
-**I'm a Night Owl 🌙**
+**열심히 하는데 까지 화이팅!**
 
-| Time      | Commits | Percentage |
+| 시간     | 갱신 | 퍼퍼센티지 |
 |-----------|---------|------------|
-| Morning   | ███▏    | 13.3%      |
-| Daytime   | ██████▌ | 27.9%      |
-| Evening   | ███████ | 28.3%      |
-| Night     | ███████▏| 30.5%      |
+| 아침   | ███▏    | 13.3%      |
+| 낮     | ██████▌ | 27.9%      |
+| 저녁   | ███████ | 28.3%      |
+| 밤     | ███████▏| 30.5%      |
 
 ---
 
-## 📅 Most Productive on Sunday
-| Day       | Commits | Percentage |
+## 📅 깃허브 이용시간
+| 요일       | 갱신 | 퍼센티지 |
 |-----------|---------|------------|
-| Monday    | ████▍   | 15.8%      |
-| Tuesday   | ████    | 14.8%      |
-| Wednesday | ████▍   | 15.8%      |
-| Thursday  | ████▋   | 16.5%      |
-| Friday    | ███     | 12.5%      |
-| Saturday  | ██▏     | 9.3%       |
-| Sunday    | █████   | 28.8%      |
+| 월요일   | ████▍   | 15.8%      |
+| 화요일   | ████    | 14.8%      |
+| 수요일   | ████▍   | 15.8%      |
+| 목요일   | ████▋   | 16.5%      |
+| 금요일   | ███     | 12.5%      |
+| 토요일   | ██▏     | 9.3%       |
+| 일요일   | █████   | 28.8%      |
 
 ---
 
-## 🕒 This Week I Spent My Time On
-**Time Zone:** 아시아/한국/아산시
+## 🕒 이번주 나의 소비시간
+**현재위치:** 아시아/한국/아산시
 
-| Category      | Time        | Percentage |
+| 카테고리      | 시간        | 페센티지 |
 |---------------|-------------|------------|
-| Programming   | ███████████████████████ | 85.75% |
-| Markdown      | ████                    | 7.86%  |
-| Makefile      | ███                     | 5.08%  |
-| Other         | █                       | 2.24%  |
+| 파이썬  | ███████████████████████ | 85.75% |
+| 자바     | ████                    | 7.86%  |
+| c++     | ███                     | 5.08%  |
+| 기타        | █                       | 2.24%  |
 
 ---
 
