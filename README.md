@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:segihyeon870@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://42seoul.kr"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white"></a>
-  <a href="https://veggie-garden.tistory.com/"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://blog.naver.com/kimgihyeon123"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=happycat12389&style=for-the-badge&color=blue">
 </p>
 
