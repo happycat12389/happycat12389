@@ -13,31 +13,21 @@
 ---
 
 ## 🏆 42Seoul Stats
-[![김기현's 42 stats](https://badge42.vercel.app/api/v2/cliv84h9u006008i2vb5xqk9p/stats?cursusId=21&coalitionId=88)](https://github.com/oakoudad/badge42)
-
-**Grade:** Learner  
-**Name:** 김기현  
-**Email:** [segihyeon870@gmail.com](mailto:segihyeon870@gmail.com)  
-⏳ **133 days left!**  
-**Level:** 1 - 54%
-
----
-
-## 👨‍💻 About Me
+[![김기현's 42 stats](https://badge42.vercel.app/api/v2/cliv84h9u006008i2vb5xqk9p/stat점
 - 🌱 I’m currently learning **Front-End Development**  
 - ❤️ I love to **code and read**  
 - 📖 Favorite book: *Clean Code*  
 
 ---
 
-## 🏅 Ranking
+## 🏅 랭킹 순위
 <img src="https://img.shields.io/badge/Rank-Gold_3rd-d4af37?style=for-the-badge&logo=rank&logoColor=white">  
 
 **Rank:** 1,478 / **Gold:** 3rd / **Level:** 1,001 / 52%
 
 ---
 
-## ⏰ Work Stats
+## ⏰ 깃허브 이용시간
 **I'm a Night Owl 🌙**
 
 | Time      | Commits | Percentage |
@@ -63,7 +53,7 @@
 ---
 
 ## 🕒 This Week I Spent My Time On
-**Time Zone:** Asia/Seoul  
+**Time Zone:** 아시아/한국/아산시
 
 | Category      | Time        | Percentage |
 |---------------|-------------|------------|
@@ -74,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 깃 허브 상태 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=happycat12389&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycat12389&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150">
